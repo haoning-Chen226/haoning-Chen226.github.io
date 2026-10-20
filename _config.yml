@@ -1,31 +1,36 @@
-title: Siming Deng
+title: Haoning Chen
+description: "Haoning Chen, a master's student in Artificial Intelligence at Beijing University of Posts and Telecommunications. Research interests include egocentric vision, 3D perception, and 3D human motion generation."
+
 # Comment out url when working locally to resolve base urls correctly
 url: https://haoning-Chen226.github.io
 
 # Default social-share preview image (Open Graph / Twitter card). Lives in /images/.
-og_image: og-cover.jpg
+og_image: bupt-homepage-logo.png
 
 # Owner/author information
 owner:
-  name: Siming Deng
-  avatar: avatar.jpg
-  email: siming_deng_stat@163.com
+  name: Haoning Chen
+  avatar: haoning-chen-resume.jpg
+  email: 13204600226@163.com
+  phone: "+86 13204600226"
   github: haoning-Chen226
-  linkedin: larry-deng-317b92360
-  scholar: https://scholar.google.com/citations?hl=en&user=aKyLtgsAAAAJ
-  researchgate: https://www.researchgate.net/profile/Siming-Deng-3
+  # linkedin: 
+  # scholar: 
+  # researchgate: 
 
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # Links to include in top navigation
 links:
   - title: About Me
-    url: /
+    url: /#about-me
+  - title: Experience
+    url: /#experience
   - title: Publications
-    url: /publications/
-  - title: Beyond Research
-    url: /hobbies/
+    url: /#publications
+  - title: Research
+    url: /#research-interests
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
